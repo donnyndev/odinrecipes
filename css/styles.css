@@ -1,0 +1,15 @@
+* {
+    font-family:Helvetica, Verdana, sans-serif;
+
+}
+
+h1,
+h2 {
+    color: rgb(89, 89, 184);
+    background-color:rgb(133, 133, 190);
+}
+
+p,
+li {
+    color:rgb(83, 83, 170);
+}
