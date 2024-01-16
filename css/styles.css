@@ -1,15 +1,29 @@
 * {
     font-family:Helvetica, Verdana, sans-serif;
-
 }
 
 h1,
 h2 {
     color: rgb(89, 89, 184);
     background-color:rgb(133, 133, 190);
+    border: 3px solid rgb(89, 89, 184);
+    padding: 10px;
 }
 
+div,
 p,
 li {
     color:rgb(83, 83, 170);
+}
+
+ul,
+ol {
+    background-color:rgb(193, 182, 230);
+    border: 1px solid rgb(83, 83, 170);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+div {
+    margin-top: 10px;
 }
